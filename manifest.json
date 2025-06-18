@@ -1,0 +1,29 @@
+{
+  "name": "Adware & Spyware Blocker",
+  "version": "1.0",
+  "description": "Blocks adware and spyware scripts on web pages.",
+  "manifest_version": 3,
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "48": "icon.png"
+  },
+  "action": {
+    "default_title": "Adware & Spyware Blocker"
+  }
+}

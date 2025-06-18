@@ -1,0 +1,8 @@
+.blocked-ad {
+  border: 2px dashed red;
+  background-color: rgba(255, 0, 0, 0.1);
+}
+.blocked-spyware {
+  border: 2px dashed blue;
+  background-color: rgba(0, 0, 255, 0.1);
+}
