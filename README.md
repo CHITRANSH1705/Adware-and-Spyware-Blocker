@@ -15,16 +15,6 @@ Features:
 - Uses a **block list of known malicious URLs/domains**
 - Notifies the user with a popup showing counts of blocked elements
 
- 📁 Folder Structure
-adware-spyware-blocker/
-├── icons/
-│ └── icon128.png
-├── background.js
-├── content.js
-├── manifest.json
-├── rules.json
-└── README.md
-
  Installation
 1. Download the Codes
 2. Go to chrome://extensions/ in your browser.
