@@ -26,8 +26,7 @@ adware-spyware-blocker/
 └── README.md
 
  Installation
-1. Download or clone this repo:
-   git clone https://github.com/CHITRANSH1705/adware-spyware-blocker.git
+1. Download the Codes
 2. Go to chrome://extensions/ in your browser.
 3. Enable Developer mode (top right).
 4. Click "Load unpacked" and select the extension folder.
