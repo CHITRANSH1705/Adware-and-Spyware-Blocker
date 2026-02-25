@@ -1,6 +1,5 @@
 let adwareCount = 0;
 let spywareCount = 0;
-
 const badSelectors = [
   "iframe[src*='ads']",
   "[src*='spyware']",
