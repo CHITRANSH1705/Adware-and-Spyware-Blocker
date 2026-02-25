@@ -30,6 +30,7 @@ function removeBadStuff() {
     });
   });
 }
+
 function detectKeyloggers() {
   document.querySelectorAll("input").forEach(input => {
     const onKeyDown = input.getAttribute("onkeydown");
