@@ -32,4 +32,4 @@ Tech Used
 Pull requests are welcome! If you want to add more domains, improve detection logic, or enhance UI, feel free to fork this repo and submit a PR.
 
 ⚠️ Disclaimer
-This extension is for educational and ethical use only. It does not guarantee 100% protection from all threats. For best results, use it alongside a trusted antivirus.
+This extension is for educational and ethical use only. It does not guarantee 100% protection from all threats. For best results, use it alongside a trusted antivirus
