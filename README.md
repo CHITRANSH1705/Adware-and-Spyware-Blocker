@@ -1,6 +1,7 @@
 Adware & Spyware Blocker - Chrome Extension
 A lightweight and powerful Chrome Extension that automatically detects and blocks **adware**, **spyware**, **trackers**, **keyloggers**, and **malicious scripts** on websites. It also displays real-time alerts about the number of threats blocked on each page.
 
+
 Features:
 -  Blocks Adware elements like ad scripts, iframes, popups, and banners
 - Blocks Spyware & Trackers including Google Analytics, Hotjar, Mixpanel, etc.
