@@ -11,6 +11,7 @@ Features:
 - Uses `chrome.declarativeNetRequest` to block requests at the network level
 
 
+
   How It Works:
 - Identifies and removes DOM elements commonly used by adware/spyware
 - Scans for suspicious event handlers (e.g., `onkeydown`) for keylogger activity
