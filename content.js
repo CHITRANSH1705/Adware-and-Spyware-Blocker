@@ -17,6 +17,7 @@ function removeBadStuff() {
   badSelectors.forEach(selector => {
     document.querySelectorAll(selector).forEach(el => {
       el.remove();
+
       
       if (
         selector.includes("ad") ||
