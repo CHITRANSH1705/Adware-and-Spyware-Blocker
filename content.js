@@ -12,6 +12,7 @@ const badSelectors = [
   "[src*='fingerprint']",
   "script[src*='beacon']"
 ];
+
 function removeBadStuff() {
   badSelectors.forEach(selector => {
     document.querySelectorAll(selector).forEach(el => {
